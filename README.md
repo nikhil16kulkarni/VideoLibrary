@@ -10,10 +10,4 @@ In the Home Page, the Title & the Image of all the JSON Objects which are stored
 
 # Screenshots of the Application
 
-<img scr="Images/1.jpg" height=500px width=1000px>
-<img scr="Images/2.jpg" height=500px width=1000px>
-<img scr="Images/3.jpg" height=500px width=1000px>
-<img scr="Images/4.jpg" height=500px width=1000px>
-<img scr="Images/5.jpg" height=500px width=1000px>
-<img scr="Images/6.jpg" height=500px width=1000px>
-<img scr="Images/7.jpg" height=500px width=1000px>
+[Screenshots](https://github.com/nikhil16kulkarni/VideoLibrary/tree/master/Images)
